@@ -1,0 +1,25 @@
+body {
+    background-image: url(./images/OIP.jpg);
+}
+
+img {
+    display: block;
+    margin: auto;
+    width: 150px;
+}
+
+h1, h3 {
+    text-align: center;
+}
+
+span {
+    text-decoration: underline;
+}
+
+main article {
+    color: gray;
+    border: 10px dotted black;
+    padding: 10px;
+    margin-top: 10px;
+}
+
